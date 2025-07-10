@@ -1,0 +1,7 @@
+# This file tells git which files or directories to ignore.
+
+# Ignore Mac OS X files
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+.idea/
