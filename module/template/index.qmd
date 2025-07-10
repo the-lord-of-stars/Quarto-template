@@ -1,0 +1,33 @@
+---
+description: "This is the notes for your_module_name"
+---
+
+# Introduction to the module {.unnumbered}
+
+Enter your introduction to the module here
+
+## Learning objectives
+
+Enter your learning objectives here
+
+## Convenor
+
+Enter your name and contact details here
+
+## Module resources
+
+Enter any resources you would like to share with students
+
+## Module outline
+
+Enter the timeline for the module here
+
+| Week | Topic | Assignment |
+|------|-------|----------------|
+| 1    |       |                |
+| 2    |       |                |
+| ...    |...    |...                |
+
+## Assessments
+
+Enter any assessments you would like to have for this module

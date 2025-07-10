@@ -1,0 +1,97 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  # To edit
+  title: "Module Title"
+  author: "NAME"
+
+  page-navigation: true
+  sidebar:
+    style: docked
+    background: light
+    logo: logos/UoNTransparent.png
+    search: true
+
+  # To edit
+  chapters:
+    - index.qmd
+    - feedback.qmd
+    - part: week1.qmd
+      chapters:
+        - lecture1.qmd
+        - lab1.qmd
+    - part: week2.qmd
+      chapters:
+        - lecture2.qmd
+        - lab2.qmd
+    - part: week3.qmd
+      chapters:
+        - lecture3.qmd
+        - lab3.qmd
+    - part: week4.qmd
+      chapters:
+        - lecture4.qmd
+        - lab4.qmd
+    - part: week5.qmd
+      chapters:
+        - lecture5.qmd
+        - lab5.qmd
+    - part: week6.qmd
+      chapters:
+        - lecture6.qmd
+        - lab6.qmd
+    - part: week7.qmd
+      chapters:
+        - lecture7.qmd
+        - lab7.qmd
+    - part: week8.qmd
+      chapters:
+        - lecture8.qmd
+        - lab8.qmd
+    - coursework1.qmd
+    - coursework2.qmd
+
+
+  appendices:
+    - appendix.qmd
+  downloads: [pdf]
+  reader-mode: true
+
+execute:
+  freeze: auto
+
+bibliography: [bib/book.bib, bib/packages.bib]
+
+
+format:
+  html:
+    css: [style.css]
+    toc: true
+    other-links:
+      # To edit
+      - text: <your Moodle Link>
+        href: https://moodle.nottingham.ac.uk/course/view.php?id=153471
+    theme:
+      light: theme/light.scss
+      dark: theme/dark.scss
+    link-external-newwindow: true
+    respect-user-color-scheme: true
+    margin-header: |
+      <img src="/logos/logo_light.png" class="module-logo-light" alt="Logo" />
+      <img src="/logos/logo_dark.png" class="module-logo-dark" alt="Logo" />
+
+
+  pdf:
+    number-depth: 3
+    documentclass: book
+    lof: true
+    lot: true
+    classoption: oneside
+    include-in-header: [preamble.tex]
+    pdf-engine: pdflatex
+    citation-package: natbib
+    keep-tex: true
+
+

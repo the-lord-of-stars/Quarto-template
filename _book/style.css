@@ -1,0 +1,229 @@
+p.caption {
+  color: #111111;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+
+/* Format title text */
+.title {
+  background: none;
+  border: none;
+ }
+
+/* Format author text */
+.author {
+  font-style: normal;
+  font-size: 22px;
+}
+
+/* Format date text */
+.date {
+  font-style: normal;
+  font-size: 22px;
+}
+
+h1 {
+  background-color: rgba(228, 131, 5, 0.1);      /* rgba(207, 0, 15, 0.2) is a red */
+  border-top: solid;
+  border-right:solid;
+  border-bottom: solid;
+  border-color: rgb(245, 149, 5);
+  border-radius: 0 30px 30px 0;
+  padding-left: 5px;
+  /*display: table-caption;*/
+  width: 75%;
+}
+
+div.theorem, div.lemma, div.corollary, div.proposition, div.conjecture,
+div.definition, div.example, div.exercise, div.hypothesis, div.proof,
+div.remark, div.activity, div.discussion, div.note, div.tip, div.solution,
+div.notation, div.mistake, div.keypoint{
+  background-size: contain;
+  border-left: solid;
+  /*margin-left: 20px;
+  margin-right: 20px;*/
+  margin-top: 20px;
+  margin-bottom: 20px;                          /* Gives space around definition box */
+  padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-style: normal;
+}
+
+div.definition{
+  background-color: rgba(207, 0, 15, 0.1);       /* red background */
+  border-color: rgba(207, 0, 15);
+}
+
+div.theorem, div.lemma, div.corollary {
+  background-color: rgba(11, 108, 199,0.1);       /* blue background */
+  border-color: rgba(11, 108, 199);
+}
+
+div.proposition, div.conjecture, div.hypothesis {
+  background-color: rgb(205,187,14,0.1);
+  border-color: rgb(205,187,14);
+}
+
+div.example {
+  background-color: rgb(12,181,40,0.1);
+  border-color: rgb(12,181,40);
+}
+
+div.exercise {
+  background-color: rgb(142,23,172,0.1);
+  border-color: rgb(142,23,172);
+}
+
+div.solution {
+  border-color: rgb(142,23,172);
+}
+
+div.proof {
+  border-color: rgba(11, 108, 199);
+}
+
+.proof:before {
+  font-style: normal;
+  font-weight: bold;
+}
+
+div.remark, div.note, div.notation{
+  /*background-color: rgb(255,254,155,0.1);
+  border-color: rgb(255,254,155);*/
+  background-color: rgb(220,65,194,0.1);
+  border-color: rgb(220,65,194);
+}
+
+.note:before {
+  content: "Note";
+  font-weight: bold;
+}
+
+.notation:before {
+  content: "Notation";
+  font-weight: bold;
+}
+
+div.activity {
+  background-color: rgb(142,23,172,0.1);
+  border-color: rgb(142,23,172);
+}
+
+.activity:before {
+  content: "Lecture Activity";
+  font-weight: bold;
+}
+
+div.discussion {
+  background-color: rgb(142,23,172,0.1);
+  border-color: rgb(142,23,172);
+}
+
+.discussion:before {
+  content: "Discussion";
+  font-weight: bold;
+}
+
+div.tip {
+  background-color: rgb(245, 149, 5, 0.1);
+  border-color: rgb(245, 149, 5);
+}
+
+.tip:before {
+  content: "Tip";
+  font-weight: bold;
+}
+
+
+/* Adding colour text in different modes */
+
+.book .book-body .page-wrapper .myhl {color: #0000FF}
+
+.book .book-body .page-wrapper .myhl2 {color: #CD2026}
+
+.book .book-body .page-wrapper .myhl3 {color:#2e8540 }
+
+
+
+/* Adding colour to mathematical notation */
+
+
+.book .book-body .page-wrapper .mjx-mstyle[style*="color: blue"] {
+color: #0000FF !important;
+}
+
+
+
+
+.book .book-body .page-wrapper .mjx-mstyle[style*="color: red"] {
+color: #CD2026 !important;
+}
+.book.color-theme-1 .book-body .page-wrapper .mjx-mstyle[style*="color: red"] {
+color: #CD2026 !important;
+}
+.book.color-theme-2 .book-body .page-wrapper .mjx-mstyle[style*="color: red"] {
+color:  #FFC845 !important;
+}
+
+.book .book-body .page-wrapper .mjx-mstyle[style*="color: green"] {
+color: #2e8540 !important;
+}
+.book.color-theme-1 .book-body .page-wrapper .mjx-mstyle[style*="color: green"] {
+color: #8c34eb !important;
+}
+.book.color-theme-2 .book-body .page-wrapper .mjx-mstyle[style*="color: green"] {
+color:  #64eb34 !important;
+}
+
+
+div.mistake{
+   background-color: rgba(207, 0, 15, 0.1);       /* red background */
+  border-color: rgba(207, 0, 15);
+}
+
+.mistake:before {
+  content: "Common mistake";
+  font-weight: bold;
+}
+
+div.keypoint {
+  background-color: rgb(12,181,40,0.1);
+  border-color: rgb(12,181,40);
+}
+
+.keypoint:before {
+  content: "Key point";
+  font-weight: bold;
+}
+
+/* light-dark-toggle.css */
+.light-content, .dark-content {
+  display: none;
+}
+
+body.quarto-light .light-content {
+  display: block;
+}
+
+body.quarto-dark .dark-content {
+  display: block;
+}
+
+
+
+
+
+
+

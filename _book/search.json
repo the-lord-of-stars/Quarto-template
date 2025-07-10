@@ -1,0 +1,623 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Module Title",
+    "section": "",
+    "text": "Introduction to the module\nEnter your introduction to the module here",
+    "crumbs": [
+      "Introduction to the module"
+    ]
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Module Title",
+    "section": "Learning objectives",
+    "text": "Learning objectives\nEnter your learning objectives here",
+    "crumbs": [
+      "Introduction to the module"
+    ]
+  },
+  {
+    "objectID": "index.html#convenor",
+    "href": "index.html#convenor",
+    "title": "Module Title",
+    "section": "Convenor",
+    "text": "Convenor\nEnter your name and contact details here",
+    "crumbs": [
+      "Introduction to the module"
+    ]
+  },
+  {
+    "objectID": "index.html#module-resources",
+    "href": "index.html#module-resources",
+    "title": "Module Title",
+    "section": "Module resources",
+    "text": "Module resources\nEnter any resources you would like to share with students",
+    "crumbs": [
+      "Introduction to the module"
+    ]
+  },
+  {
+    "objectID": "index.html#module-outline",
+    "href": "index.html#module-outline",
+    "title": "Module Title",
+    "section": "Module outline",
+    "text": "Module outline\nEnter the timeline for the module here\n\n\n\nWeek\nTopic\nAssignment\n\n\n\n\n1\n\n\n\n\n2\n\n\n\n\n…\n…\n…",
+    "crumbs": [
+      "Introduction to the module"
+    ]
+  },
+  {
+    "objectID": "index.html#assessments",
+    "href": "index.html#assessments",
+    "title": "Module Title",
+    "section": "Assessments",
+    "text": "Assessments\nEnter any assessments you would like to have for this module",
+    "crumbs": [
+      "Introduction to the module"
+    ]
+  },
+  {
+    "objectID": "feedback.html",
+    "href": "feedback.html",
+    "title": "Feedback",
+    "section": "",
+    "text": "Feedback Forum Link\nEnter the feedback forum here:\nPut the link for the feedback forum here:\n…",
+    "crumbs": [
+      "Feedback"
+    ]
+  },
+  {
+    "objectID": "week1.html",
+    "href": "week1.html",
+    "title": "Week 1: Your Title Here",
+    "section": "",
+    "text": "Enter your content here.",
+    "crumbs": [
+      "Week 1: Your Title Here"
+    ]
+  },
+  {
+    "objectID": "lecture1.html",
+    "href": "lecture1.html",
+    "title": "Lecture",
+    "section": "",
+    "text": "PPT LINK\nPut the link to your PPT here.",
+    "crumbs": [
+      "Week 1: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture1.html#record",
+    "href": "lecture1.html#record",
+    "title": "Lecture",
+    "section": "Record",
+    "text": "Record\nPut your recording link here.",
+    "crumbs": [
+      "Week 1: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture1.html#resources",
+    "href": "lecture1.html#resources",
+    "title": "Lecture",
+    "section": "Resources",
+    "text": "Resources\nPut any resources you want to share with the class here.",
+    "crumbs": [
+      "Week 1: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lab1.html",
+    "href": "lab1.html",
+    "title": "Lab",
+    "section": "",
+    "text": "Goal of the Lab\nEnter the goal of the lab here.",
+    "crumbs": [
+      "Week 1: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "lab1.html#plan",
+    "href": "lab1.html#plan",
+    "title": "Lab",
+    "section": "Plan",
+    "text": "Plan\nEnter the plan of the lab here.",
+    "crumbs": [
+      "Week 1: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "week2.html",
+    "href": "week2.html",
+    "title": "Week 2: Your Title Here",
+    "section": "",
+    "text": "Enter your content here.",
+    "crumbs": [
+      "Week 2: Your Title Here"
+    ]
+  },
+  {
+    "objectID": "lecture2.html",
+    "href": "lecture2.html",
+    "title": "Lecture",
+    "section": "",
+    "text": "PPT LINK\nPut the link to your PPT here.",
+    "crumbs": [
+      "Week 2: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture2.html#record",
+    "href": "lecture2.html#record",
+    "title": "Lecture",
+    "section": "Record",
+    "text": "Record\nPut your recording link here.",
+    "crumbs": [
+      "Week 2: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture2.html#resources",
+    "href": "lecture2.html#resources",
+    "title": "Lecture",
+    "section": "Resources",
+    "text": "Resources\nPut any resources you want to share with the class here.",
+    "crumbs": [
+      "Week 2: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lab2.html",
+    "href": "lab2.html",
+    "title": "Lab",
+    "section": "",
+    "text": "Goal of the Lab\nEnter the goal of the lab here.",
+    "crumbs": [
+      "Week 2: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "lab2.html#plan",
+    "href": "lab2.html#plan",
+    "title": "Lab",
+    "section": "Plan",
+    "text": "Plan\nEnter the plan of the lab here.",
+    "crumbs": [
+      "Week 2: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "week3.html",
+    "href": "week3.html",
+    "title": "Week 3: Your Title Here",
+    "section": "",
+    "text": "Enter your content here.",
+    "crumbs": [
+      "Week 3: Your Title Here"
+    ]
+  },
+  {
+    "objectID": "lecture3.html",
+    "href": "lecture3.html",
+    "title": "Lecture",
+    "section": "",
+    "text": "PPT LINK\nPut the link to your PPT here.",
+    "crumbs": [
+      "Week 3: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture3.html#record",
+    "href": "lecture3.html#record",
+    "title": "Lecture",
+    "section": "Record",
+    "text": "Record\nPut your recording link here.",
+    "crumbs": [
+      "Week 3: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture3.html#resources",
+    "href": "lecture3.html#resources",
+    "title": "Lecture",
+    "section": "Resources",
+    "text": "Resources\nPut any resources you want to share with the class here.",
+    "crumbs": [
+      "Week 3: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lab3.html",
+    "href": "lab3.html",
+    "title": "Lab",
+    "section": "",
+    "text": "Goal of the Lab\nEnter the goal of the lab here.",
+    "crumbs": [
+      "Week 3: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "lab3.html#plan",
+    "href": "lab3.html#plan",
+    "title": "Lab",
+    "section": "Plan",
+    "text": "Plan\nEnter the plan of the lab here.",
+    "crumbs": [
+      "Week 3: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "week4.html",
+    "href": "week4.html",
+    "title": "Week 4: Your Title Here",
+    "section": "",
+    "text": "Enter your content here.",
+    "crumbs": [
+      "Week 4: Your Title Here"
+    ]
+  },
+  {
+    "objectID": "lecture4.html",
+    "href": "lecture4.html",
+    "title": "Lecture",
+    "section": "",
+    "text": "PPT LINK\nPut the link to your PPT here.",
+    "crumbs": [
+      "Week 4: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture4.html#record",
+    "href": "lecture4.html#record",
+    "title": "Lecture",
+    "section": "Record",
+    "text": "Record\nPut your recording link here.",
+    "crumbs": [
+      "Week 4: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture4.html#resources",
+    "href": "lecture4.html#resources",
+    "title": "Lecture",
+    "section": "Resources",
+    "text": "Resources\nPut any resources you want to share with the class here.",
+    "crumbs": [
+      "Week 4: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lab4.html",
+    "href": "lab4.html",
+    "title": "Lab",
+    "section": "",
+    "text": "Goal of the Lab\nEnter the goal of the lab here.",
+    "crumbs": [
+      "Week 4: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "lab4.html#plan",
+    "href": "lab4.html#plan",
+    "title": "Lab",
+    "section": "Plan",
+    "text": "Plan\nEnter the plan of the lab here.",
+    "crumbs": [
+      "Week 4: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "week5.html",
+    "href": "week5.html",
+    "title": "Week 5: Your Title Here",
+    "section": "",
+    "text": "Enter your content here.",
+    "crumbs": [
+      "Week 5: Your Title Here"
+    ]
+  },
+  {
+    "objectID": "lecture5.html",
+    "href": "lecture5.html",
+    "title": "Lecture",
+    "section": "",
+    "text": "PPT LINK\nPut the link to your PPT here.",
+    "crumbs": [
+      "Week 5: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture5.html#record",
+    "href": "lecture5.html#record",
+    "title": "Lecture",
+    "section": "Record",
+    "text": "Record\nPut your recording link here.",
+    "crumbs": [
+      "Week 5: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture5.html#resources",
+    "href": "lecture5.html#resources",
+    "title": "Lecture",
+    "section": "Resources",
+    "text": "Resources\nPut any resources you want to share with the class here.",
+    "crumbs": [
+      "Week 5: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lab5.html",
+    "href": "lab5.html",
+    "title": "Lab",
+    "section": "",
+    "text": "Goal of the Lab\nEnter the goal of the lab here.",
+    "crumbs": [
+      "Week 5: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "lab5.html#plan",
+    "href": "lab5.html#plan",
+    "title": "Lab",
+    "section": "Plan",
+    "text": "Plan\nEnter the plan of the lab here.",
+    "crumbs": [
+      "Week 5: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "week6.html",
+    "href": "week6.html",
+    "title": "Week 6: Your Title Here",
+    "section": "",
+    "text": "Enter your content here.",
+    "crumbs": [
+      "Week 6: Your Title Here"
+    ]
+  },
+  {
+    "objectID": "lecture6.html",
+    "href": "lecture6.html",
+    "title": "Lecture",
+    "section": "",
+    "text": "PPT LINK\nPut the link to your PPT here.",
+    "crumbs": [
+      "Week 6: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture6.html#record",
+    "href": "lecture6.html#record",
+    "title": "Lecture",
+    "section": "Record",
+    "text": "Record\nPut your recording link here.",
+    "crumbs": [
+      "Week 6: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture6.html#resources",
+    "href": "lecture6.html#resources",
+    "title": "Lecture",
+    "section": "Resources",
+    "text": "Resources\nPut any resources you want to share with the class here.",
+    "crumbs": [
+      "Week 6: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lab6.html",
+    "href": "lab6.html",
+    "title": "Lab",
+    "section": "",
+    "text": "Goal of the Lab\nEnter the goal of the lab here.",
+    "crumbs": [
+      "Week 6: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "lab6.html#plan",
+    "href": "lab6.html#plan",
+    "title": "Lab",
+    "section": "Plan",
+    "text": "Plan\nEnter the plan of the lab here.",
+    "crumbs": [
+      "Week 6: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "week7.html",
+    "href": "week7.html",
+    "title": "Week 7: Your Title Here",
+    "section": "",
+    "text": "Enter your content here.",
+    "crumbs": [
+      "Week 7: Your Title Here"
+    ]
+  },
+  {
+    "objectID": "lecture7.html",
+    "href": "lecture7.html",
+    "title": "Lecture",
+    "section": "",
+    "text": "PPT LINK\nPut the link to your PPT here.",
+    "crumbs": [
+      "Week 7: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture7.html#record",
+    "href": "lecture7.html#record",
+    "title": "Lecture",
+    "section": "Record",
+    "text": "Record\nPut your recording link here.",
+    "crumbs": [
+      "Week 7: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture7.html#resources",
+    "href": "lecture7.html#resources",
+    "title": "Lecture",
+    "section": "Resources",
+    "text": "Resources\nPut any resources you want to share with the class here.",
+    "crumbs": [
+      "Week 7: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lab7.html",
+    "href": "lab7.html",
+    "title": "Lab",
+    "section": "",
+    "text": "Goal of the Lab\nEnter the goal of the lab here.",
+    "crumbs": [
+      "Week 7: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "lab7.html#plan",
+    "href": "lab7.html#plan",
+    "title": "Lab",
+    "section": "Plan",
+    "text": "Plan\nEnter the plan of the lab here.",
+    "crumbs": [
+      "Week 7: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "week8.html",
+    "href": "week8.html",
+    "title": "Week 8: Your Title Here",
+    "section": "",
+    "text": "Enter your content here.",
+    "crumbs": [
+      "Week 8: Your Title Here"
+    ]
+  },
+  {
+    "objectID": "lecture8.html",
+    "href": "lecture8.html",
+    "title": "Lecture",
+    "section": "",
+    "text": "PPT LINK\nPut the link to your PPT here.",
+    "crumbs": [
+      "Week 8: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture8.html#record",
+    "href": "lecture8.html#record",
+    "title": "Lecture",
+    "section": "Record",
+    "text": "Record\nPut your recording link here.",
+    "crumbs": [
+      "Week 8: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lecture8.html#resources",
+    "href": "lecture8.html#resources",
+    "title": "Lecture",
+    "section": "Resources",
+    "text": "Resources\nPut any resources you want to share with the class here.",
+    "crumbs": [
+      "Week 8: Your Title Here",
+      "Lecture"
+    ]
+  },
+  {
+    "objectID": "lab8.html",
+    "href": "lab8.html",
+    "title": "Lab",
+    "section": "",
+    "text": "Goal of the Lab\nEnter the goal of the lab here.",
+    "crumbs": [
+      "Week 8: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "lab8.html#plan",
+    "href": "lab8.html#plan",
+    "title": "Lab",
+    "section": "Plan",
+    "text": "Plan\nEnter the plan of the lab here.",
+    "crumbs": [
+      "Week 8: Your Title Here",
+      "Lab"
+    ]
+  },
+  {
+    "objectID": "coursework1.html",
+    "href": "coursework1.html",
+    "title": "Coursework 1",
+    "section": "",
+    "text": "Enter your specification here.",
+    "crumbs": [
+      "<span style=\"color:blue\">Coursework 1</span>"
+    ]
+  },
+  {
+    "objectID": "coursework2.html",
+    "href": "coursework2.html",
+    "title": "Coursework 2",
+    "section": "",
+    "text": "Enter your specification here.",
+    "crumbs": [
+      "<span style=\"color:blue\">Coursework 2</span>"
+    ]
+  },
+  {
+    "objectID": "appendix.html",
+    "href": "appendix.html",
+    "title": "Appendix A — Example",
+    "section": "",
+    "text": "This is just an example.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Example</span>"
+    ]
+  }
+]

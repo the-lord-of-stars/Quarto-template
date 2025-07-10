@@ -1,0 +1,102 @@
+{
+  "index.qmd": {
+    "index.html": "85a24fb4"
+  },
+  "Chapter1.qmd": {
+    "Chapter1.html": "381310a4"
+  },
+  "Chapter2.qmd": {
+    "Chapter2.html": "795dae0d"
+  },
+  "Chapter3.qmd": {
+    "Chapter3.html": "8ef017a7"
+  },
+  "appendix.qmd": {
+    "appendix.html": "f674c6f0"
+  },
+  "Feedback.qmd": {
+    "Feedback.html": "8bc658f3"
+  },
+  "feedback.qmd": {
+    "Feedback.html": "b932cdec",
+    "feedback.html": "6cae97f1"
+  },
+  "week1.qmd": {
+    "week1.html": "d0c33026"
+  },
+  "lecture1.qmd": {
+    "lecture1.html": "8377082f"
+  },
+  "lab1.qmd": {
+    "lab1.html": "0c23c782"
+  },
+  "coursework1.qmd": {
+    "coursework1.html": "4ec21307"
+  },
+  "week2.qmd": {
+    "week2.html": "ca19267a"
+  },
+  "lecture2.qmd": {
+    "lecture2.html": "1b46302c"
+  },
+  "lab2.qmd": {
+    "lab2.html": "bbcaf4c0"
+  },
+  "coursework2.qmd": {
+    "coursework2.html": "2715e465"
+  },
+  "week3.qmd": {
+    "week3.html": "3f30e168"
+  },
+  "lecture3.qmd": {
+    "lecture3.html": "58aca62b"
+  },
+  "lab3.qmd": {
+    "lab3.html": "2ca540da"
+  },
+  "week4.qmd": {
+    "week4.html": "839d4f79"
+  },
+  "lecture4.qmd": {
+    "lecture4.html": "88fc3d48"
+  },
+  "lab4.qmd": {
+    "lab4.html": "f72e927c"
+  },
+  "week5.qmd": {
+    "week5.html": "c4cd6ea2"
+  },
+  "lecture5.qmd": {
+    "lecture5.html": "1b11bedd"
+  },
+  "lab5.qmd": {
+    "lab5.html": "a5ad1d2d"
+  },
+  "week6.qmd": {
+    "week6.html": "9f3b949a"
+  },
+  "lecture6.qmd": {
+    "lecture6.html": "f6a6bbf9"
+  },
+  "lab6.qmd": {
+    "lab6.html": "d9ef831f"
+  },
+  "week7.qmd": {
+    "week7.html": "4a05e0ff"
+  },
+  "lecture7.qmd": {
+    "lecture7.html": "53cbaed4"
+  },
+  "lab7.qmd": {
+    "lab7.html": "2b9fae5c"
+  },
+  "week8.qmd": {
+    "week8.html": "9700aa0c"
+  },
+  "lecture8.qmd": {
+    "lecture8.html": "499f45bf"
+  },
+  "lab8.qmd": {
+    "lab8.html": "ea277233"
+  }
+}

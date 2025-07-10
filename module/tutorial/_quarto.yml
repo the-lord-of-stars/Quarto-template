@@ -1,0 +1,59 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Quarto Template"
+  author: "SACA Group"
+  repo-url: https://github.com/the-lord-of-stars/Data-Analytics-and-AI-Curriculum-project/
+  repo-actions: [edit, issue, source]
+  page-navigation: true
+  sidebar:
+    style: docked
+    background: light
+    logo: logos/UoNTransparent.png
+    search: true
+  chapters:
+    - index.qmd
+    - Chapter1.qmd
+    - Chapter2.qmd
+    - Chapter3.qmd
+  appendices:
+    - appendix.qmd
+  downloads: [pdf]
+  reader-mode: true
+
+execute:
+  freeze: auto
+
+bibliography: [bib/book.bib, bib/packages.bib]
+
+
+format:
+  html:
+    css: [style.css]
+    toc: true
+    other-links:
+      - text: Moodle Link
+        href: https://moodle.nottingham.ac.uk/course/view.php?id=153471
+    theme:
+      light: theme/light.scss
+      dark: theme/dark.scss
+    link-external-newwindow: true
+    respect-user-color-scheme: true
+    margin-header: |
+      <img src="/logos/logo_light.png" class="module-logo-light" alt="Logo" />
+      <img src="/logos/logo_dark.png" class="module-logo-dark" alt="Logo" />
+
+  pdf:
+    number-depth: 3
+    documentclass: book
+    lof: true
+    lot: true
+    classoption: oneside
+    include-in-header: [preamble.tex]
+    pdf-engine: pdflatex
+    citation-package: natbib
+    keep-tex: true
+
+

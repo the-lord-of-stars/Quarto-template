@@ -1,0 +1,9 @@
+# Lab {.unnumbered}
+
+## Goal of the Lab
+
+Enter the goal of the lab here.
+
+## Plan
+
+Enter the plan of the lab here.
