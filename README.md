@@ -29,6 +29,8 @@ To load different module content, follow these steps:
    ```bash
    ./switch_module.sh <the-module-name>
    ```
+> [!IMPORTANT]
+>   You must include all your picture file, .qmd file and the _quarto.yaml in one module folder in ./module
 
 ## Resources
 - [Quarto](https://quarto.org/)
